@@ -9,8 +9,11 @@ All files are self-contained jupiter notebooks for easy download and reproducabi
 Florence2:
 
 /QLoRA_Training/QLora_Florence2 (1).ipynb -- attempted QLoRA training on Florence2
+
 Finetuning_Florence2.ipynb --successful finetuning of FLorence2
+
 Graphing_Florence2_TrainVal.ipynb -- Graphing results from finetuning Florence2
+
 Quantizing_Florence2.ipynb -- Successful quantization, but loss after quantization was far too high to have been successful.
 
 
