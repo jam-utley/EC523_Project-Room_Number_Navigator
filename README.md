@@ -16,6 +16,8 @@ Graphing_Florence2_TrainVal.ipynb -- Graphing results from finetuning Florence2
 
 Quantizing_Florence2.ipynb -- Successful quantization, but loss after quantization was far too high to have been successful.
 
+I have included .py files in the Florence2_python_backups folder in case the jupyter notebooks fail to open. I was having trouble viewing the notebooks, so in case the problem persists, the files are all teh same, but they exist as .py instead of .ipynb
+
 
 ## Yolo: 
 
