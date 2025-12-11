@@ -123,14 +123,13 @@ Coordinates normalized to [0, 1000] scale for consistency.
 
 ### Qwen2-VL (Core Implementation)
 
-| File | Lines | Purpose |
-|------|-------|---------|
-| `train.py` | 533 | Training pipeline with LoRA fine-tuning |
-| `evaluate.py` | 306 | Metrics: P/R/F1, text accuracy, FPS |
-| `demo.py` | 273 | Video inference with async processing |
-| `annotate.py` | 269 | Interactive annotation interface |
-| `prepare_data.py` | 162 | YOLO → VLM format conversion |
-| **Total** | **1,543** | **Complete end-to-end system** |
+
+
+-`train.py`- Training pipeline with LoRA fine-tuning 
+-`evaluate.py`- Metrics: P/R/F1, text accuracy, FPS 
+- `demo.py` -  Video inference with async processing 
+- `annotate.py`- Interactive annotation interface 
+- `prepare_data.py` - YOLO → VLM format conversion 
 
 ### Florence-2 Notebooks
 
